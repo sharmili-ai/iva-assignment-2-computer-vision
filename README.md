@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-[Open the IVA Assignment 2 Web Application](YOUR_STREAMLIT_URL)
+[Open the IVA Assignment 2 Web Application](https://iva-assignment-2-computer-vision.streamlit.app/)
 
 ---
 
