@@ -1,16 +1,15 @@
-# ==============================================================================
-# IVA Assignment 2 – Computer Vision & Face Analysis Lab
-# Python Dependencies for Local & Streamlit Community Cloud Deployment
-# ==============================================================================
+streamlit>=1.40,<2
+opencv-python-headless>=4.8,<5
+numpy>=1.26,<2.1
+matplotlib>=3.7,<4
+pillow>=10,<13
+pandas>=2.0,<3
 
-streamlit>=1.30.0
-opencv-python-headless>=4.8.0
-numpy>=1.24.0,<3.0.0
-matplotlib>=3.7.0
-pillow>=10.0.0
-pandas>=2.0.0
-torch>=2.0.0
-torchvision>=0.15.0
-facenet-pytorch>=2.5.3
-deepface>=0.0.80
-scipy>=1.10.0
+deepface==0.0.101
+tensorflow==2.19.1
+
+facenet-pytorch==2.5.3
+torch==2.2.2
+torchvision==0.17.2
+
+scipy>=1.10,<1.16
